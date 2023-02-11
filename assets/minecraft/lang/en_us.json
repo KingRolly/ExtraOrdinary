@@ -1,0 +1,7 @@
+{
+    "rpo.extraordinary": "ExtraOrdinary",
+    "rpo.extraordinary.items": "Items",
+    "rpo.extraordinary.items.blazeItems": "Blaze Rod/Blaze Powder",
+    "rpo.extraordinary.items.trapdoorItems": "Trapdoor Item Textures",
+    "rpo.extraordinary.items.trapdoorItems.tooltip": "Trapdoors use item textures instead of models"
+}
